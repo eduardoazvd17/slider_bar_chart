@@ -1,7 +1,7 @@
 # 📊 Slider Bar Chart
 <div style="display: flex;">
-  <img src="screenshots/1.png" alt="Screenshot 1" style="max-height: 300px; margin-right: 10px;">
-  <img src="screenshots/2.png" alt="Screenshot 2" style="max-height: 300px;">
+  <img src="https://raw.githubusercontent.com/eduardoazvd17/slider_bar_chart/main/screenshots/1.png" alt="Screenshot 1" style="max-height: 300px; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/eduardoazvd17/slider_bar_chart/main/screenshots/2.png" alt="Screenshot 2" style="max-height: 300px;">
 </div>
 <br>
 **Slider Bar Chart** is a lightweight and customizable Flutter library for creating simple bar charts. Ideal for visually comparing data in an elegant and minimalistic way.
