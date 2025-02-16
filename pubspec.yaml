@@ -1,6 +1,6 @@
 name: slider_bar_chart
 description: "Simple Bar Chart is a lightweight and customizable Flutter library for creating simple bar charts. Ideal for visually comparing data in an elegant and minimalistic way."
-version: 0.0.5
+version: 0.0.6
 homepage: https://eduardoazevedo.com
 
 environment:

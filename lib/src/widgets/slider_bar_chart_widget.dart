@@ -167,7 +167,9 @@ class _SliderBarChartWidgetState extends State<SliderBarChartWidget> {
 
   Widget get _yTitles {
     final String maxString = _formatYTitle(widget.data.maxY);
-    final String midString = _formatYTitle(widget.data.maxY / 2);
+    final String midString = _formatYTitle(
+      (widget.data.maxY / 2).round().toDouble(),
+    );
     final String minString = _formatYTitle(widget.data.minY);
 
     return Column(

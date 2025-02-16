@@ -1,3 +1,6 @@
+## 0.0.6
+* Round yTitles values on side bar
+
 ## 0.0.5
 
 * Using FittedBox to fit xTitle text inside desired space.

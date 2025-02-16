@@ -20,7 +20,7 @@ Add `slider_bar_chart` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  slider_bar_chart: ^0.0.5
+  slider_bar_chart: ^0.0.6
 ```
 
 ## 🛠️ Usage
